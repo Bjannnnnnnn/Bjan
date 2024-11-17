@@ -1,9 +1,35 @@
-# Bjan
-Half Life 2 Cheat Config
-## This is a half life 2 config like a cheat kinda config. THIS IS ONLY CONSOLE COMMANDS SO IT WILL NOT INJECT ANY CODE. You can type all this your self in the console but i made it easier for you :D
-## KEYBINDS: F1 is godmode F2 is noclip F4 is ESP on F5 is ESP off F7 gives you the current Ammo for the weapon your holding.
-To use this config after you downloaded it. 
-1. Advanced way. go into ProgramX86 Steam steamapps common Half-Life 2 hl2 cfg and drag it in there. MAKE SURE TO DRAG IT IN A EMPTY SPACE IN CFG.
-2. Simpler way. go to your steam library right click half life 2 than hover over manage then press browse local files and go into hl2 cfg and drag it in there.
-3. Launch Half life 2 and go into settings keyboard and remove any funcion keys like f7 f8. then go in to advanced and turn on console. This is optinal if you want make a keybind for it.
-4. When ingame open console type exec cheats and it should work.
+Bjan Config - Half-Life 2 Tweaks and Cheats
+
+A customizable configuration file for Half-Life 2, packed with performance optimizations, cheat commands, and quality-of-life improvements. Designed to enhance your gameplay and enable fun experiments with the Source engine.
+
+## Features
+
+• Performance Tweaks: fps_max 999 for uncapped FPS and other settings to optimize gameplay.
+• Cheat Commands:
+  - Godmode
+  - Infinite ammo
+  - Noclip
+  - Wallhack
+• Keybinds: Quick access to cheats with easy-to-edit binds.
+
+## Installation
+
+1. Download the cheats.cfg file.
+2. Place it in the following directory:
+
+   steamapps/common/Half-Life 2/hl2/cfg/
+
+3. Start the game, and load the config by opening the console an typing exec cheats.cfg.
+
+## Usage
+
+• Activate cheats using pre-set keybinds (customizable in the file).
+• Open the console (~ key) to test commands or add your own tweaks.
+
+## Notes
+
+• If some commands reset during autosaves, execute them again.
+
+## License
+
+This project is open-source under the GNU General Public License v3.0. Contributions are welcome!
