@@ -1,6 +1,6 @@
 Bjan Config - Half-Life 2 Tweaks and Cheats
 
-A customizable configuration file for Half-Life 2, packed with performance optimizations, cheat commands, and quality-of-life improvements. Designed to enhance your gameplay and enable fun experiments with the Source engine.
+A customizable configuration file for Half-Life 2, packed with performance optimizations, cheat commands, and quality-of-life improvements. Designed to enhance your gameplay and enable fun.
 
 ## Features
 
@@ -10,7 +10,8 @@ A customizable configuration file for Half-Life 2, packed with performance optim
   - Infinite ammo
   - Noclip
   - Wallhack
-• Keybinds: Quick access to cheats with easy-to-edit binds.
+
+## Keybinds: F1: Turn on Godmode. F2: Toggle Noclip. F4: Turn on ESP. F5: Turn off ESP. F7: Gives you Ammo For the weapon your holding.
 
 ## Installation
 
@@ -19,12 +20,12 @@ A customizable configuration file for Half-Life 2, packed with performance optim
 
    steamapps/common/Half-Life 2/hl2/cfg/
 
-3. Start the game, and load the config by opening the console an typing exec cheats.cfg.
+3. Start the game, and load the config by opening the console and typing exec cheats.
 
 ## Usage
 
-• Activate cheats using pre-set keybinds (customizable in the file).
-• Open the console (~ key) to test commands or add your own tweaks.
+• Activate cheats using pre-set keybinds or own keybinds. (customizable in the file).
+• Open the console (~ key) and type exec cheats.
 
 ## Notes
 
