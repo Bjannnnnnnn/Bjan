@@ -1,4 +1,4 @@
-Bjan Config - Half-Life 2 Tweaks and Cheats
+Bjans Config - Half-Life 2 Tweaks and Cheats
 
 A customizable configuration file for Half-Life 2, packed with performance optimizations, cheat commands, and quality-of-life improvements. Designed to enhance your gameplay and enable fun.
 
