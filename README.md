@@ -5,5 +5,5 @@ Half Life 2 Cheat Config
 To use this config after you downloaded it. 
 1. Advanced way. go into ProgramX86 Steam steamapps common Half-Life 2 hl2 cfg and drag it in there. MAKE SURE TO DRAG IT IN A EMPTY SPACE IN CFG.
 2. Simpler way. go to your steam library right click half life 2 than hover over manage then press browse local files and go into hl2 cfg and drag it in there.
-3. Launch Half life 2 and go into settings keyboard and remove any funcion keys like f7 f8. then go in to advanced and turn on console. this is optinal if you want make a keybind for it.
+3. Launch Half life 2 and go into settings keyboard and remove any funcion keys like f7 f8. then go in to advanced and turn on console. This is optinal if you want make a keybind for it.
 4. When ingame open console type exec cheats and it should work.
